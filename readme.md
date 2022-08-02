@@ -4,9 +4,9 @@
 ### Time required: 8 hrs
 ***
 ### Click below to visit my website:
-## [Live Link](https://netlify.com "Go to my Website")
+## [Live Link](https://simant-project01.netlify.app/ "Go to my Website")
 ***
-This is my leaning CSS project.
-
-[Link](https://img.shields.io/aur/last-modified/google-chrome)
+This project is mainly focused on Position and Selector properties of CSS.
+<br />
+![Badge](https://img.shields.io/badge/HTML-CSS-blue)
 
